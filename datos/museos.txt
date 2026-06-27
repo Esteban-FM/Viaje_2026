@@ -1,0 +1,126 @@
+=====================================
+       MUSEOS - DATOS DE LOCACIONES
+=====================================
+
+Instrucciones:
+- Copia el bloque de "LOCACIÓN #" para agregar más lugares
+- Si el lugar NO requiere reservación, deja el campo "Reservación (link)" vacío
+- En Instagram solo pon el usuario sin @
+- Las fotos se agregarán después en carpetas de assets
+
+-------------------------------------
+LOCACIÓN #1
+-------------------------------------
+Nombre: Museo Nacional de Antropología
+Dirección completa: Av. P.º de la Reforma s/n, Polanco, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX
+Horario: Martes a Domingos de 9am - 5pm
+Reservación (link): https://mna.inah.gob.mx/informacion_general.php
+Instagram: https://www.instagram.com/mnantropologia/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30101.48155362114!2d-99.2243874256836!3d19.426003200000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d201b420c8c849%3A0x84231ae36f6ec524!2sMuseo%20Nacional%20de%20Antropolog%C3%ADa!5e0!3m2!1ses-419!2smx!4v1782407288289!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #2
+-------------------------------------
+Nombre: Museo Soumaya
+Dirección completa: Blvd. Miguel de Cervantes Saavedra, Granada, Miguel Hidalgo, 11529 Ciudad de México, CDMX
+Horario: Lunes a Domingos de 10:30am - 6:30pm
+Reservación (link):
+Instagram: www.instagram.com/elmuseosoumaya/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5095.153273946988!2d-99.20753485892197!3d19.44142943193304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2021a6e3a3d09%3A0x9372e2224c033cb3!2sMuseo%20Soumaya!5e0!3m2!1ses-419!2smx!4v1782407390269!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #3
+-------------------------------------
+Nombre: Museo Jumex
+Dirección completa: Blvd. Miguel de Cervantes Saavedra 303, Granada, Miguel Hidalgo, 11520 Ciudad de México, CDMX
+Horario: Martes, Miércoles, Jueves, viernes y Domingo de 10am - 5pm, Sábados de 10am - 7pm
+Reservación (link):
+Instagram: https://www.instagram.com/museojumex/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60197.62432564918!2d-99.28009585136715!3d19.440405400000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2021a61dc42bf%3A0x4fa8779fdff375c1!2sMuseo%20Jumex!5e0!3m2!1ses-419!2smx!4v1782407556681!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+-------------------------------------
+LOCACIÓN #4
+-------------------------------------
+Nombre: SIMI CASA
+Dirección completa: Río Neva 17, Col. Renacimiento, Cuauhtémoc, 06500 Cuauhtémoc, CDMX
+Horario: Martes a Viernes de 9am - 6pm,  Sábado a Domingo de 9am - 7pm
+Reservación (link):
+Instagram: https://www.instagram.com/casasimi/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.550899383974!2d-99.16788380775647!3d19.431800935042613!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff003e44c691%3A0xb33076cd46541fd5!2sSIMI%20CASA!5e0!3m2!1ses-419!2smx!4v1782414498159!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+-------------------------------------
+LOCACIÓN #5
+-------------------------------------
+Nombre: Museo De Los Sueños
+Dirección completa: Av. Patriotismo 229, San Pedro de los Pinos, Benito Juárez, 03800 Ciudad de México, CDMX
+Horario:  Lunes a Viernes de 1pm - 8pm, Sábados y Domingos de 11am - 8pm
+Reservación (link): https://fantasylab.mx/boletos?exp=5e69f616-f4b3-4a1c-a73c-622650d8a7a8
+Instagram: https://www.instagram.com/fantasylaab/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.387287091889!2d-99.18581690776!3d19.395665535144225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff0013267d15%3A0xdcd540094ff6760d!2sMuseo%20De%20Los%20Sue%C3%B1os!5e0!3m2!1ses-419!2smx!4v1782415757677!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+-------------------------------------
+LOCACIÓN #6
+-------------------------------------
+Nombre: Centro Cultural El Rule
+Dirección completa: Eje Central Lázaro Cárdenas 6-primer piso, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX
+Horario: Martes a Domingo de 10am - 6pm
+Reservación (link):
+Instagram: https://www.instagram.com/centroculturalelrulemx/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.508505629346!2d-99.1409801!3d19.4336308!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f92b4e286a2d%3A0xbd9f28e4c2132142!2sCentro%20Cultural%20El%20Rule!5e0!3m2!1ses-419!2smx!4v1782416379476!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #7
+-------------------------------------
+Nombre: Palacio de Bellas Artes
+Dirección completa:
+Horario: Lunes a Sábado de 11am - 6pm, Domingo de 8am - 6pm
+Entradas (link): https://museopalaciodebellasartes.inba.gob.mx/informacion-general/
+Instagram: https://www.instagram.com/mbellasartes/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5476.897609046732!2d-99.14462777259948!3d19.43391905896532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f92b75aa014d%3A0x17d810d20da6e8cf!2sPalacio%20de%20Bellas%20Artes!5e0!3m2!1ses-419!2smx!4v1782421873370!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #8
+-------------------------------------
+Nombre: Museo Nacional De Arte (MUNAL)
+Dirección completa: C. de Tacuba 8, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX
+Horario: Martes a Domingo de 10am - 6pm
+Entradas (link): https://munal.mx/en/visita
+Instagram: https://www.instagram.com/munalmx/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.448923834408!2d-99.14197042304531!3d19.436202281843993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d200248453f8d1%3A0x5e67451bc487b600!2sMuseo%20Nacional%20De%20Arte%20(MUNAL)!5e0!3m2!1ses-419!2smx!4v1782421950322!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+-------------------------------------
+LOCACIÓN #9
+-------------------------------------
+Nombre: Laboratorio Arte Alameda
+Dirección completa: Calle Dr Mora 7, Colonia Centro, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX
+Horario: Martes a Domingo de. 9am - 5pm
+Entradas (link): https://inba.gob.mx/recinto/32
+Instagram: https://www.instagram.com/artealameda/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.442227167672!2d-99.14922380955345!3d19.436491281843864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f8d59ac04f77%3A0x444bf08eedf1dc5a!2sLaboratorio%20Arte%20Alameda%20(Ex-Templo%20y%20Convento%20de%20San%20Diego)!5e0!3m2!1ses-419!2smx!4v1782422702449!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+-------------------------------------
+LOCACIÓN #10
+-------------------------------------
+Nombre: Museo Tamayo Arte Contemporáneo
+Dirección completa: Av. P.º de la Reforma 51, Polanco, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX
+Horario: Martes a Domingo de. 10am - 6pm
+Entradas (link):  https://www.museotamayo.org/visita
+Instagram:  https://www.instagram.com/eneltamayo/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4879.618308475422!2d-99.18203423574353!3d19.42536003817266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff53d2614b4b%3A0x2cd41906d3e91652!2sMuseo%20Tamayo%20Arte%20Contempor%C3%A1neo!5e0!3m2!1ses-419!2smx!4v1782422776282!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+

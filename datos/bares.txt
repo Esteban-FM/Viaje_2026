@@ -1,0 +1,54 @@
+=====================================
+       BARES - DATOS DE LOCACIONES
+=====================================
+
+Instrucciones:
+- Copia el bloque de "LOCACIÓN #" para agregar más lugares
+- Si el lugar NO requiere reservación, deja el campo "Reservación (link)" vacío
+- En Instagram solo pon el usuario sin @
+- Las fotos se agregarán después en carpetas de assets
+
+-------------------------------------
+LOCACIÓN #1
+-------------------------------------
+Nombre: Jazzatlán Capital
+Dirección completa: Guanajuato 239, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX
+Horario: Lunes a Viernes de 6pm - 1am, Sábados y Domingos 5:30pm - 1am
+Reservación (link): https://boletera.jazzatlan.club/
+Instagram: https://www.instagram.com/jazzatlancapital/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.9186933799865!2d-99.16740322304562!3d19.41591868185999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff391e6230c3%3A0x7de74697b216efb3!2sJazzatl%C3%A1n%20Capital!5e0!3m2!1ses-419!2smx!4v1782417302128!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #2
+-------------------------------------
+Nombre: Casa Franca
+Dirección completa: Mérida 109, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX
+Horario: Martes de 6pm - 1:30am, Miércoles 5pm - 1am,  Jueves a Sábado 5pm - 2am
+Reservación (link):
+Instagram: https://www.instagram.com/casa.franca/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.845487222685!2d-99.15743859999999!3d19.4190809!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff3ab85b2121%3A0x2a00607641e50e97!2sCasa%20Franca!5e0!3m2!1ses-419!2smx!4v1782417530106!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #3
+-------------------------------------
+Nombre: Rojo Bar
+Dirección completa: Av. Álvaro Obregón 206, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX
+Horario: Domingo a Miércoles de 5pm -12am, Jueves de 5pm - 2am, viernes y Sábado de 5pm - 3am
+Reservación (link): https://www.opentable.com.mx/r/rojo-roma-ciudad-de-mexico?ref=16420
+Instagram: https://www.instagram.com/rojo.bar/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.891518633007!2d-99.16693692304557!3d19.41709258185905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff0017a84d01%3A0xba658b24ea139005!2sRojo%20Bar!5e0!3m2!1ses-419!2smx!4v1782423665119!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+-------------------------------------
+LOCACIÓN #4
+-------------------------------------
+Nombre: Cantina SieteSeis
+Dirección completa: C.Colima 76, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX
+Horario: Mattes a Sábado de 6pm - 12am
+Reservación (link): https://www.opentable.com.mx/r/cantina-sieteseis-ciudad-de-mexico?ref=16420
+Instagram: https://www.instagram.com/cantinasieteseis/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.811158812161!2d-99.1592648230455!3d19.420563581856364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff581027b3bf%3A0x143da8e3046a2cd1!2sCantina%20SieteSeis!5e0!3m2!1ses-419!2smx!4v1782425952260!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+

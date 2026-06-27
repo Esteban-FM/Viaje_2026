@@ -1,0 +1,90 @@
+=====================================
+       EXTRAS - DATOS DE LOCACIONES
+=====================================
+
+Instrucciones:
+- Copia el bloque de "LOCACIÓN #" para agregar más lugares
+- Si el lugar NO requiere reservación, deja el campo "Reservación (link)" vacío
+- En Instagram solo pon el usuario sin @
+- Las fotos se agregarán después en carpetas de assets
+
+-------------------------------------
+LOCACIÓN #1
+-------------------------------------
+Nombre: Extra Extra
+Dirección completa: La Morena 1313, Narvarte Oriente, Benito Juárez, 03023 Ciudad de México, CDMX
+Horario: Lunes, Martes, Jueves y Viernes de 7am - 7pm, Miercoles de 7am - 9pm, Sábados de 9am - 3pm
+Reservación (link):
+Instagram: https://www.instagram.com/eextra.eextra?igsh=MWJydGNiYTYwN2F3aw==
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.3326318912727!2d-99.15216508852745!3d19.398028841707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff00663562c3%3A0xf5c84a7951e3fe9f!2sExtra%20Extra!5e0!3m2!1ses-419!2smx!4v1782359680643!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+-------------------------------------
+LOCACIÓN #2
+-------------------------------------
+Nombre: Casa Rayón
+Dirección completa: Casa del Obrero Mundial 677, Narvarte Oriente, Benito Juárez, 03023 Ciudad de México, CDMX
+Horario: Sábados y Domingos de 10am - 5pm
+Reservación (link):
+Instagram: https://www.instagram.com/rayon.mx/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.2378988359173!2d-99.14675863530731!3d19.40212447057182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff153326fbb1%3A0x8ac124b4b46a9969!2sCasa%20Ray%C3%B3n!5e0!3m2!1ses-419!2smx!4v1782359906230!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+-------------------------------------
+LOCACIÓN #3
+-------------------------------------
+Nombre: Yamco Stationery Shop
+Dirección completa: Tabasco 262, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX
+Horario:  Lunes a Viernes de 3pm - 7pm, Sábado y Domingo de 3pm - 6pm
+Reservación (link):
+Instagram: https://www.instagram.com/yamco.shop/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.873390765051!2d-99.17004750775786!3d19.417875635081717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff3fe3cf4d0d%3A0x75f0f32e52c64291!2sYamco%20Stationery%20Shop!5e0!3m2!1ses-419!2smx!4v1782425119167!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+-------------------------------------
+LOCACIÓN #4
+-------------------------------------
+Nombre: Cosmópolis Bazar
+Dirección completa: C.Colima 124, Roma Nte., Cuauhtémoc, 06700 Cuauhtémoc, CDMX
+Horario: Viernes a Domingo de 12pm - 7:30pm
+Reservación (link):
+Instagram: https://www.instagram.com/cosmopolisbazar/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.8182299191835!2d-99.16081632304555!3d19.420258181856525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff5ebedbd7e5%3A0x6c69464bc96be0df!2sCosm%C3%B3polis%20Bazar!5e0!3m2!1ses-419!2smx!4v1782422415196!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+-------------------------------------
+LOCACIÓN #5
+-------------------------------------
+Nombre: Librería Porrúa - Bosque de Chapultepec
+Dirección completa: Bahía, Av. Grutas S/N, Miguel Hidalgo, 11580 Ciudad de México, CDMX
+Horario: Martes a Sábado 9am - 6pm
+Reservación (link):
+Instagram: https://www.instagram.com/explore/locations/250052611/libreria-porrua-bosque-de-chapultepec/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60206.68654803204!2d-99.23126849377977!3d19.415952555729056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff56afa13d3b%3A0xcab52005771fd802!2sLibrer%C3%ADa%20Porr%C3%BAa%20-%20Bosque%20de%20Chapultepec!5e0!3m2!1ses-419!2smx!4v1782424945282!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+-------------------------------------
+LOCACIÓN #6
+-------------------------------------
+Nombre: Photobooths Photoculto
+Dirección completa: C. Querétaro 117, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX
+Horario: Lunes a Domingo de 10am - 10pm
+Reservación (link): 
+Instagram: https://www.instagram.com/photoculto/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.939797339063!2d-99.16252882304555!3d19.415006981860664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff41fbe30487%3A0xb1e6304f793d1d3a!2sPhotoculto!5e0!3m2!1ses-419!2smx!4v1782425257023!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+-------------------------------------
+LOCACIÓN #8
+-------------------------------------
+Nombre: Capilla Gótica del Instituto Cultural Helénico
+Dirección completa: Av. Revolución 1500, Guadalupe Inn, Álvaro Obregón, 01020 Ciudad de México, CDMX
+Horario: Lunes a Viernes de. 9am - 7pm, Sábados de 9am - 5pm, Domingo Abierto las 24horas
+Reservación (link): 
+Instagram: https://www.instagram.com/institutohelenico/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.366273518449!2d-99.19220752304648!3d19.353286881909348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffd97fa5abef%3A0x4e8ad083c183e8eb!2sCapilla%20G%C3%B3tica%20del%20Instituto%20Cultural%20Hel%C3%A9nico!5e0!3m2!1ses-419!2smx!4v1782425698213!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+-------------------------------------
+LOCACIÓN #7
+-------------------------------------
+Nombre: Vermut Déco
+Dirección completa: 11850, San Miguel Chapultepec I Sección, Miguel Hidalgo, 11850 Ciudad de México, CDMX
+Horario: Martes y Miércoles de 11am - 9:30pm, Jueves a Sábado de 11am - 10pm, Domingo de 11am - 8:30pm
+Reservación (link):
+Instagram: https://www.instagram.com/vermut_deco/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15052.789455154933!2d-99.2019569382202!3d19.40387668319107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff0060640e31%3A0xb2cc881aaaa3dbbf!2sVermut%20D%C3%A9co!5e0!3m2!1ses-419!2smx!4v1782426611626!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+

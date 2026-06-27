@@ -1,0 +1,178 @@
+=====================================
+  RESTAURANTES Y PUESTOS - DATOS DE LOCACIONES
+=====================================
+
+Instrucciones:
+- Copia el bloque de "LOCACIÓN #" para agregar más lugares
+- Si el lugar NO requiere reservación, deja el campo "Reservación (link)" vacío
+- En Instagram solo pon el usuario sin @
+- Las fotos se agregarán después en carpetas de assets
+
+-------------------------------------
+LOCACIÓN #1
+-------------------------------------
+Nombre: La Esquina Del Chilaquil
+Dirección completa: Alfonso Reyes 139, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX
+Horario: Lunes a Domingo de 8am - 12pm
+Reservación (link):
+Instagram: https://www.instagram.com/laesquinadelchilaquil/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.093264847754!2d-99.17913762304575!3d19.408375881865958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff428f61a6a3%3A0xec757c64e0f05944!2sLa%20Esquina%20Del%20Chilaquil!5e0!3m2!1ses-419!2smx!4v1782418234306!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #2
+-------------------------------------
+Nombre: Las Costillas De La Condesa
+Dirección completa: Eje 2 Sur, C. Juan Escutia 104, Colonia Condesa, Cuauhtémoc, 06140 Ciudad de México, CDMX
+Horario: Lunes a Sábado de 1pm - 1am
+Reservación (link):
+Instagram: https://www.instagram.com/lascostillasdelacondesa/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.919621631629!2d-99.1797483230455!3d19.41587858185997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff44e65d949b%3A0x6125739399b1d69!2sLas%20Costillas%20De%20La%20Condesa!5e0!3m2!1ses-419!2smx!4v1782418328676!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #3
+-------------------------------------
+Nombre: Tacos estilo argentino
+Dirección completa: Xola 61, código 2, Col del Valle Nte, Benito Juárez, 03400 Ciudad de México, CDMX
+Horario: Domingo a Viernes 24horas,  Sábados de 1p - 12am
+Reservación (link):
+Instagram:
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.351091315326!2d-99.16874322304582!3d19.397230681874714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff3707cda2f5%3A0x22b04db968bd1523!2sTacos%20estilo%20argentino!5e0!3m2!1ses-419!2smx!4v1782418457341!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #3
+-------------------------------------
+Nombre: La Casa de Toño en Zona Rosa
+Dirección completa: Londres 144, Cuauhtémoc, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX
+Horario: Abierto las 24 Horas
+Menú (link): https://lacasadetono.mx/menus/
+Instagram: https://www.instagram.com/lacasadetono
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12475.834207935022!2d-99.17602165210259!3d19.410779156139753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff3663d7a891%3A0xea2960938f6d444f!2sLa%20Casa%20de%20To%C3%B1o%20en%20Zona%20Rosa!5e0!3m2!1ses-419!2smx!4v1782418569875!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #4
+-------------------------------------
+Nombre: El Japonez Oasis Coyoacán
+Dirección completa: Av. Universidad 1778, Romero de Terreros, Coyoacán, 04310 Ciudad de México, CDMX
+Horario: Lunes a Miercoles de 1pm - 12am, Jueves a Sábado de 1pm - 1am
+Reservación (link): https://www.opentable.com.mx/r/el-japonez-oasis-coyoacan-mexico?ref=16420
+Instagram: https://www.instagram.com/eljaponez/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.570283436995!2d-99.1797222!3d19.3444444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fffb39953ccf%3A0x8bb573a0d588a828!2sEl%20Japonez%20Oasis%20Coyoac%C3%A1n!5e0!3m2!1ses-419!2smx!4v1782420107774!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #5
+-------------------------------------
+Nombre: Koku Ramen
+Dirección completa: C. Río Lerma 94C, Cuauhtémoc, 06500 Ciudad de México, CDMX
+Horario: Lunes a Domingo de 11:30 - 12am
+Reservación (link):
+Instagram: https://www.instagram.com/kokumx/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.596981022591!2d-99.1661421!3d19.4298117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff35125b2955%3A0xe1b2bed9ffa11fb!2sKoku!5e0!3m2!1ses-419!2smx!4v1782420189460!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #6
+-------------------------------------
+Nombre: NUDO Ramen y Boba - Del Valle
+Dirección completa: Av. Coyoacán 1123, Del valle, Benito Juárez, 03100 Ciudad de México, CDMX
+Horario: Luneas a Domingo de 1pm - 10pm
+Menú (link): https://www.asianfoodconcepts.mx/
+Instagram: https://www.instagram.com/nudo.ramen.boba
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.799006059449!2d-99.17219632304615!3d19.37785378188989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffe348527831%3A0xce6e0b2ccb393587!2sNUDO%20Ramen%20y%20Boba%20-%20Del%20Valle!5e0!3m2!1ses-419!2smx!4v1782420284212!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #7
+-------------------------------------
+Nombre: Chicago Bernie’s Beef Bike Juárez
+Dirección completa: Londres 251, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX
+Horario: Domingo a Jueves de 1pm -10pm, Viernes y Sábados de 1pm - 11pm
+Menú (link): https://chicagobernies.com/wp-content/uploads/2026/05/MENU_BERNIES_DIGITAL.pdf
+Instagram: https://www.instagram.com/chicagobernies/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15051.034820889661!2d-99.1889082128418!3d19.422828899999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4d954b9d0f%3A0x29af61c896199ece!2sChicago%20Bernie%E2%80%99s%20Beef%20Bike%20Ju%C3%A1rez!5e0!3m2!1ses-419!2smx!4v1782420420809!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #8
+-------------------------------------
+Nombre: Coppola Pizza Very nice
+Dirección completa: Hamburgo 172, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX
+Horario: Lunes a Miércoles de 1pm - 12am, Jueves a Sábado de 1pm - 2am, Domingo de 1pm - 10pm
+Reservación (link): https://www.opentable.com.mx/r/coppola-pizza-vynil-bar-ciudad-de-mexico?ref=16420
+Instagram: https://www.instagram.com/coppolaverynice/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.7072072667893!2d-99.1672172!3d19.4250527!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff050ad9188f%3A0x6e21341c81c690f6!2sCoppola%20Pizza%20Very%20nice!5e0!3m2!1ses-419!2smx!4v1782420651519!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #9
+-------------------------------------
+Nombre: Terraza Pizzorama
+Dirección completa: Pl. de la República 9, Tabacalera, Cuauhtémoc, 06030 Ciudad de México, CDMX
+Horario: Domingo a Miércoles de 8am - 11pm, Jueves a Sábado de 8am - 1am
+Reservación (link): https://www.pizzorama.mx/reservations?reservationLocationId=b3cb535c-95c5-4364-a2db-6b14c993315e&utm_source=google&utm_medium=reserve_button&rwg_token=AE37R_iK9kFg22lcwa_RS4x3xLHhkzQp_Vg7rAxtxtr5IXriSPpRIS5LW29eQq47m2KqQTMGUTLC5S2ybcl2jKBIQK4WQwRLFIM4iKqzu8geyih0Ihv1gKo%3D
+Instagram: https://www.instagram.com/pizzoramacdmx/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.4430933798117!2d-99.1530877!3d19.4364539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f96d36c446a3%3A0x643af5b2d790e668!2sPizzorama!5e0!3m2!1ses-419!2smx!4v1782420810807!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #10
+-------------------------------------
+Nombre: Restaurante Don Toribio
+Dirección completa: Simón Bolívar 31, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX
+Horario: Lunes a Domingo de 8am - 6pm
+Reservación (link):
+Instagram: https://www.instagram.com/dontoribiorest/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.524920817669!2d-99.14111752304532!3d19.43292228184651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff0fb490b563%3A0xcf253dcf4950761e!2sRestaurante%20Don%20Toribio!5e0!3m2!1ses-419!2smx!4v1782420888709!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #11
+-------------------------------------
+Nombre: LagoAlgo
+Dirección completa: Bosque de Chapultepec, Pista El Sope S/N, Bosque de Chapultepec II Secc, Miguel Hidalgo, 11100 Ciudad de México, CDMX
+Horario: Domingo, Lunes, Miércoles y Jueves de 8:30am - 7pm, Viernes 1:30pm - 7pm, Sábado de 8:30am - 6pm 
+Reservación (link): https://www.opentable.com.mx/r/lagoalgo-mexico-city?ref=16420sango
+Instagram: https://www.instagram.com/lago_algo/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.8992177693285!2d-99.2000542!3d19.41676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d201e541f45ad1%3A0x980a55c81899f565!2sLagoAlgo!5e0!3m2!1ses-419!2smx!4v1782423045230!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+-------------------------------------
+LOCACIÓN #12
+-------------------------------------
+Nombre: Sali & Tabacchi Pizza
+Dirección completa: C.Colima 152, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX
+Horario: Lunes a Domingo de 2pm -11pm
+Reservación (link):
+Instagram: https://www.instagram.com/salietabacchimx/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.823293124005!2d-99.1594559!3d19.420039499999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff00520627a3%3A0x4d32a10bb4aadfbc!2sSali%20%26%20Tabacchi!5e0!3m2!1ses-419!2smx!4v1782423229766!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+-------------------------------------
+LOCACIÓN #13
+-------------------------------------
+Nombre: Konohanatei 
+Dirección completa: Anillo Perif. Blvd. Adolfo López Mateos 4268, Jardines del Pedregal de San Ángel, Coyoacán, 04500 Ciudad de México, CDMX
+Horario: Martes a Domingo de 1pm - 7:30pm
+Reservación (link):
+Instagram: https://www.instagram.com/explore/locations/305001451/konohanatei-cino-hua-ting/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7530.9315401921285!2d-99.2027322!3d19.3055849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cdffc49bbaaaab%3A0x54fc29bc89e9ff9c!2sKonohanatei!5e0!3m2!1ses-419!2smx!4v1782425402403!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+-------------------------------------
+LOCACIÓN #14
+-------------------------------------
+Nombre: Soop Noodle Bar
+Dirección completa: C. Orizaba 96, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX
+Horario: Lunes a Miercoles de 2pm - 10pm, Jueves a Sábado de 2pm - 12am, Domingo de 2pm - 9pm
+Reservación (link):
+Instagram: https://www.instagram.com/soopnoodlebar/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7525.695837982889!2d-99.15978313180003!3d19.418975865101142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff079088677d%3A0x2189069db9a984bd!2sSoop%20Noodle%20Bar!5e0!3m2!1ses-419!2smx!4v1782426203681!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+

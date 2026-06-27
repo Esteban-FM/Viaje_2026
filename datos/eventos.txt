@@ -1,0 +1,122 @@
+=====================================
+  EVENTOS POR DÍA - DATOS
+=====================================
+
+Instrucciones:
+- Copia el bloque de "EVENTO #" para agregar más eventos
+- Los días disponibles son: jueves / viernes / sabado / domingo
+- Si el evento NO requiere tickets/reservación, deja el campo vacío
+- En Instagram solo pon el usuario sin @
+- En "Precio entrada" escribe "Gratis" si no cobra, o el costo (ej: $200 pesos)
+- Las fotos se agregarán después en carpetas de assets
+
+-------------------------------------
+            JUEVES
+-------------------------------------
+
+EVENTO #1
+-------------------------------------
+Nombre:
+Lugar:
+Dirección completa:
+Horario:
+Precio entrada:
+Tickets / Reservación (link):
+Instagram:
+Google Maps (iframe src):
+
+
+EVENTO #2
+-------------------------------------
+Nombre:
+Lugar:
+Dirección completa:
+Horario:
+Precio entrada:
+Tickets / Reservación (link):
+Instagram:
+Google Maps (iframe src):
+
+
+-------------------------------------
+            VIERNES
+-------------------------------------
+
+EVENTO #1
+-------------------------------------
+Nombre:
+Lugar:
+Dirección completa:
+Horario:
+Precio entrada:
+Tickets / Reservación (link):
+Instagram:
+Google Maps (iframe src):
+
+
+EVENTO #2
+-------------------------------------
+Nombre:
+Lugar:
+Dirección completa:
+Horario:
+Precio entrada:
+Tickets / Reservación (link):
+Instagram:
+Google Maps (iframe src):
+
+
+-------------------------------------
+            SÁBADO
+-------------------------------------
+
+EVENTO #1
+-------------------------------------
+Nombre:
+Lugar:
+Dirección completa:
+Horario:
+Precio entrada:
+Tickets / Reservación (link):
+Instagram:
+Google Maps (iframe src):
+
+
+EVENTO #2
+-------------------------------------
+Nombre:
+Lugar:
+Dirección completa:
+Horario:
+Precio entrada:
+Tickets / Reservación (link):
+Instagram:
+Google Maps (iframe src):
+
+
+-------------------------------------
+            DOMINGO
+-------------------------------------
+
+EVENTO #1
+-------------------------------------
+Nombre:
+Lugar:
+Dirección completa:
+Horario:
+Precio entrada:
+Tickets / Reservación (link):
+Instagram:
+Google Maps (iframe src):
+
+
+EVENTO #2
+-------------------------------------
+Nombre:
+Lugar:
+Dirección completa:
+Horario:
+Precio entrada:
+Tickets / Reservación (link):
+Instagram:
+Google Maps (iframe src):

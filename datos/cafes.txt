@@ -1,0 +1,216 @@
+=====================================
+        CAFÉS - DATOS DE LOCACIONES
+=====================================
+
+Instrucciones:
+- Copia el bloque de "LOCACIÓN #" para agregar más lugares
+- Si el lugar NO requiere reservación, deja el campo "Reservación (link)" vacío
+- En Instagram solo pon el usuario sin @
+- Las fotos se agregarán después en carpetas de assets
+
+-------------------------------------
+LOCACIÓN #1
+-------------------------------------
+Nombre: El Minutito
+Dirección completa: Londres 28, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX
+Horario: Miércoles a Jueves de 7:30am - 12am, Viernes a Sábados de 7:30am - 1am, Domingos a Maeres de 7:30am - 10pm
+Reservación (link):
+Instagram: https://www.instagram.com/el.minutito/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.6393467330754!2d-99.1584912!3d19.427982699999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff0043621877%3A0x8f6a5afdf1420789!2sEl%20Minutito!5e0!3m2!1ses-419!2smx!4v1782356515691!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+-------------------------------------
+LOCACIÓN #2
+-------------------------------------
+Nombre: The Wizard Shop
+Dirección completa: Av. Insurgentes Centro 403, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX
+Horario: Lunes a Domingo de 10am - 8pm
+Reservación (link):
+Instagram: https://www.instagram.com/the_wizardshop/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.0842388629967!2d-99.17037858852716!3d19.408765941364607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff006a13e919%3A0x1a5563527bc0da7e!2sThe%20Wizard%20Shop!5e0!3m2!1ses-419!2smx!4v1782357284729!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #3
+-------------------------------------
+Nombre: Cucurucho and Company
+Dirección completa: Río Tigris 27, Cuauhtémoc, 06500 Ciudad de México, CDMX
+Horario: Jueves, Viernes y Domingo 9am - 5pm, Sábados de 9am - 7pm
+Reservación (link): 
+Instagram: https://www.instagram.com/cucuruchoandcompany/?hl=es-la
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11521.861418449613!2d-99.17493229050588!3d19.430964037521253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f9006528af87%3A0xa3bcd3cc0eb2d4a9!2sCucurucho%20and%20Company!5e0!3m2!1ses-419!2smx!4v1782358968598!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #4
+-------------------------------------
+Nombre: Cafebrería El Péndulo
+Dirección completa: Hamburgo 126, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX
+Horario: Lunes a Sábados 8am - 11pm, Domingo 9am - 10pm
+Reservación (link):
+Instagram: https://www.instagram.com/cafebreriaelpendulo/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.685613398491!2d-99.16853787000424!3d19.4259851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff49c2020a9d%3A0x7c950508ec6d8868!2sCafebrer%C3%ADa%20El%20P%C3%A9ndulo!5e0!3m2!1ses-419!2smx!4v1782358021720!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+-------------------------------------
+LOCACIÓN #5
+-------------------------------------
+Nombre: CUMBÉ Coffee Roasters
+Dirección completa: Monterrey 82, Roma Sur, Cuauhtémoc, 06700 Ciudad de México, CDMX
+Horario: Lunes a Domingo 8am - 8pm
+Reservación (link):
+Instagram: https://www.instagram.com/cumbe.lat/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.839537103448!2d-99.16464170000002!3d19.419337899999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffbb10274543%3A0xeb313768d6383d9!2sCUMB%C3%89%20Coffee%20Roasters!5e0!3m2!1ses-419!2smx!4v1782358478674!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+-------------------------------------
+LOCACIÓN #6
+-------------------------------------
+Nombre: Derba Matcha Café
+Dirección completa: Aguascalientes 158-Piso 1, Colonia Condesa, Cuauhtémoc, 06100 Ciudad de México, CDMX
+Horario: Lunes a Domingo 7am - 10:30pm
+Reservación (link):
+Instagram: https://www.instagram.com/derbamatchacafe/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.103154272616!2d-99.16904439999999!3d19.4079485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff301ba3e2a5%3A0x3ed27c3efd5fdf77!2sDerba%20Matcha%20Caf%C3%A9!5e0!3m2!1ses-419!2smx!4v1782358620345!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+-------------------------------------
+LOCACIÓN #7
+-------------------------------------
+Nombre: BUNA - La Tostadora
+Dirección completa: C. Dr. Lucio 181, Doctores, Cuauhtémoc, 06720 Ciudad de México, CDMX
+Horario: Lunes a Miércoles de 8am - 7pm, Jueves de 8am - 6:45pm, Sábados de 8am - 7pm
+Reservación (link):
+Instagram: https://www.instagram.com/bunamx/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.8719136102654!2d-99.155333488527!3d19.417939441071926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffd63d224633%3A0xbf31d6c6c278957d!2sBUNA%20-%20La%20Tostadora!5e0!3m2!1ses-419!2smx!4v1782359191199!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+-------------------------------------
+LOCACIÓN #8
+-------------------------------------
+Nombre: Curva Café de especialidad
+Dirección completa: C. Artículo 123 126, Colonia Centro, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX
+Horario: Lunes a Domingo 8am - 9pm
+Reservación (link):
+Instagram: https://www.instagram.com/curva.cafe/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.5224645898206!2d-99.1522332206543!3d19.433028299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f93c00c12f73%3A0x9e8496a061474319!2sCurva%20Caf%C3%A9%20de%20especialidad!5e0!3m2!1ses-419!2smx!4v1782359310692!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+-------------------------------------
+LOCACIÓN #9
+-------------------------------------
+Nombre: Café Avellaneda
+Dirección completa: Higuera 40-A, La Concepción, Coyoacán, 04000 Ciudad de México, CDMX
+Horario: Lunes a Domingo de 8m - 9pm
+Reservación (link):
+Instagram: https://www.instagram.com/avellanedakf/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63805.517395978844!2d-99.21532004647136!3d19.368098011684214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffdb3f0d3b6b%3A0x3cc476af6f349072!2sCaf%C3%A9%20Avellaneda!5e0!3m2!1ses-419!2smx!4v1782359422475!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #10
+-------------------------------------
+Nombre: Café Drama
+Dirección completa: Tennyson 117 alto, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX
+Horario: Jueves a Sábado 6pm - 2am
+Reservación (link): https://www.covermanager.com/reservation/module_group/grupo-cafe-drama/spanish
+Instagram: https://www.instagram.com/cafedrama__/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.5531593589662!2d-99.19734762304536!3d19.431703381847562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d20304b010bd8b%3A0x3816c14cc346a1aa!2sCaf%C3%A9%20Drama!5e0!3m2!1ses-419!2smx!4v1782415877622!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #11
+-------------------------------------
+Nombre: Adelita Café
+Dirección completa: Plaza, Av. de la República, Cuauhtémoc, 06030 Ciudad de México, CDMX
+Horario: Domingo a Jueves de 10am - 8pm, Viernes de 10am - 10pm, Sábados de 10am - 7pm
+Reservación (link):
+Instagram: https://www.instagram.com/explore/locations/29661925/adelita-cafe-monumento-a-la-revolucion/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.4348672546935!2d-99.1548517!3d19.4368089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f8d24598701f%3A0xcd77e1d1b6d7c99e!2sAdelita%20Caf%C3%A9!5e0!3m2!1ses-419!2smx!4v1782421024929!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+-------------------------------------
+LOCACIÓN #12
+-------------------------------------
+Nombre: Finca Don Porfirio
+Dirección completa: Av. Juárez 14, Colonia Centro, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX
+Horario: Lunes a Domingo de 11am - 8pm
+Reservación (link):
+Instagram: https://www.instagram.com/fincadonporfirio/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d437.550934111883!2d-99.14178465597794!3d19.43422230446922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f92b3f1338d1%3A0xf232e2e9baaf2afa!2sFinca%20Don%20Porfirio!5e0!3m2!1ses-419!2smx!4v1782421144502!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #13
+-------------------------------------
+Nombre: Hasta el cuerno
+Dirección completa: Av. Mazatlan 138-5, Hipódromo Condesa, Cuauhtémoc, 06170 Ciudad de México, CDMX
+Horario: Martes a Domingo de 9am - 7pm
+Reservación (link):
+Instagram: https://www.instagram.com/hastaelcuerno/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15051.15839216232!2d-99.19643217090433!3d19.421494759687146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff796ed8dbbf%3A0x74c2255f7143546!2sHasta%20el%20cuerno!5e0!3m2!1ses-419!2smx!4v1782421251327!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #14
+-------------------------------------
+Nombre: Amorcita Gelato
+Dirección completa: Tonalá 194, Cuauhtemoc, Cuauhtémoc, 06700 Ciudad de México, CDMX
+Horario: Lunes y Miércoles de 10am - 8pm, Jueves a Sábado de 10am - 10pm
+Reservación (link):
+Instagram: https://www.instagram.com/amorcitagelato
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.007455683113!2d-99.16589910775835!3d19.412083835098084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffbb381cf8bb%3A0xc78eefaaa75e438a!2sAmorcita%20Gelato!5e0!3m2!1ses-419!2smx!4v1782421339172!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #15
+-------------------------------------
+Nombre: Gelateria & Pasticceria Don Nino Roma CDMX
+Dirección completa: Chihuahua 113, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX
+Horario: Domingo a Miércoles de. 10am - 10:30pm, Jueves a Sábado de 10am - 11pm
+Reservación (link):
+Instagram: https://www.instagram.com/donnino.mx/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15051.52390272188!2d-99.15940839999999!3d19.417548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff130340bd37%3A0x924d4c29f8928ff9!2sGelateria%20%26%20Pasticceria%20Don%20Nino%20Roma%20CDMX!5e0!3m2!1ses-419!2smx!4v1782421438620!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #16
+-------------------------------------
+Nombre: Churrería El Moro
+Dirección completa:  Av Michoacán 27, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX
+Horario: Lunes a Domingo de 9am -11pm
+Reservación (link):
+Instagram: https://www.instagram.com/churreriaelmoro/
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15052.125649138372!2d-99.1687413!3d19.4110487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4102ee2715%3A0x42067d742b520d31!2sChurrer%C3%ADa%20El%20Moro!5e0!3m2!1ses-419!2smx!4v1782421582673!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #17
+-------------------------------------
+Nombre: Pizza del Perro Negro Roma Norte
+Dirección completa: Parque España 3-Loc 1, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX
+Horario: Lunes a Domingo de 8am - 12am
+Menú (link): https://www.pizzadelperronegro.com/index.html#dalmata
+Instagram: https://www.instagram.com/pizzaperronegro/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15051.626215035833!2d-99.16964809999999!3d19.4164431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4708dff395%3A0xadd02c0f0b57b9de!2sPizza%20del%20Perro%20Negro%20Roma%20Norte!5e0!3m2!1ses-419!2smx!4v1782421702111!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #18
+-------------------------------------
+Nombre: Proscenio Café
+Dirección completa: Av. P.º de la Reforma 111, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX
+Horario:  Lunes a Sábado de 8am - 10pm, Domingo de 8am - 9pm
+Reservación (link): https://www.opentable.com.mx/r/proscenio-cafe-ciudad-de-mexico?ref=16420
+Instagram: https://www.instagram.com/proscenio_cafe/?hl=es
+Google Maps (iframe src):  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d940.6839380179263!2d-99.19374409999999!3d19.4238201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d201000ec9516b%3A0x205603c54722267e!2sProscenio%20Caf%C3%A9!5e0!3m2!1ses-419!2smx!4v1782422273746!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #19
+-------------------------------------
+Nombre: La Valiente
+Dirección completa: Hamburgo 41, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX
+Horario: Lunes a Domingo de 7am - 7pm
+Menú (link): 
+Instagram: https://www.instagram.com/la.valiente.cdmx?igsh=MXVwOTdyY3IxNGZ4cw%3D%3D
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.6275064508613!2d-99.16292552304542!3d19.42849388184994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff005f26a609%3A0xd89c623a792049d!2sLa%20Valiente!5e0!3m2!1ses-419!2smx!4v1782426434069!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+

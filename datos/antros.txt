@@ -1,0 +1,31 @@
+=====================================
+       ANTROS - DATOS DE LOCACIONES
+=====================================
+
+Instrucciones:
+- Copia el bloque de "LOCACIÓN #" para agregar más lugares
+- Si el lugar NO requiere reservación, deja el campo "Reservación (link)" vacío
+- En Instagram solo pon el usuario sin @
+- Las fotos se agregarán después en carpetas de assets
+
+-------------------------------------
+LOCACIÓN #1
+-------------------------------------
+Nombre: FORO Centro de salud
+Dirección completa:
+Horario: Jueves 8pm - 12am, Viernes y Sábados 9pm - 12am, Domingos 12am - 6am
+Reservación (link):
+Instagram: https://www.instagram.com/centro_de_saludforo/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14622.388526218112!2d-99.17287320131334!3d19.4247507460596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff57644dfacd%3A0xef84b1b45fb4191b!2sFORO%20Centro%20de%20salud!5e0!3m2!1ses-419!2smx!4v1782414678786!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+-------------------------------------
+LOCACIÓN #2
+-------------------------------------
+Nombre: Jardín paraíso
+Dirección completa: C. Querétaro 202, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX
+Horario: Jueves y Viernes de 7pm - 12am, Sábados de 6pm - 12am
+Reservación (link):
+Instagram: https://www.instagram.com/_jardinmx/?hl=es
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.963458010351!2d-99.16649152304561!3d19.413984781861448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffeb2d43a7d5%3A0x3ff82bf7e03f77b!2zSmFyZMOtbiBwYXJhw61zbw!5e0!3m2!1ses-419!2smx!4v1782416615534!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
