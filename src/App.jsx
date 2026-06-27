@@ -7,7 +7,7 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Viaje_2026">
       <div className="max-w-md mx-auto relative">
         <Routes>
           <Route path="/" element={<HomePage />} />
