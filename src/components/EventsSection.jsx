@@ -59,12 +59,13 @@ export default function EventsSection() {
 function EventCard({ evento }) {
   return (
     <div className="w-28 flex-shrink-0">
-      <div className="w-28 h-28 rounded-xl overflow-hidden border-2 border-gray-700 bg-gray-800">
+      <div className="relative w-28 h-28 rounded-xl overflow-hidden bg-gray-800">
         <img
           src={evento.imagen}
           alt={evento.nombre}
           className="w-full h-full object-cover"
         />
+        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-black/40 to-black" />
       </div>
       <p className="text-white text-xs font-semibold mt-1 truncate">
         {evento.nombre}
