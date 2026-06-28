@@ -184,17 +184,6 @@ Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m1
 -------------------------------------
 LOCACIÓN #17
 -------------------------------------
-Nombre: Pizza del Perro Negro Roma Norte
-Dirección completa: Parque España 3-Loc 1, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX
-Horario: Lunes a Domingo de 8am - 12am
-Menú (link): https://www.pizzadelperronegro.com/index.html#dalmata
-Instagram: https://www.instagram.com/pizzaperronegro/?hl=es
-Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15051.626215035833!2d-99.16964809999999!3d19.4164431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4708dff395%3A0xadd02c0f0b57b9de!2sPizza%20del%20Perro%20Negro%20Roma%20Norte!5e0!3m2!1ses-419!2smx!4v1782421702111!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-
-
--------------------------------------
-LOCACIÓN #18
--------------------------------------
 Nombre: Proscenio Café
 Dirección completa: Av. P.º de la Reforma 111, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX
 Horario:  Lunes a Sábado de 8am - 10pm, Domingo de 8am - 9pm
@@ -204,7 +193,7 @@ Google Maps (iframe src):  <iframe src="https://www.google.com/maps/embed?pb=!1m
 
 
 -------------------------------------
-LOCACIÓN #19
+LOCACIÓN #18
 -------------------------------------
 Nombre: La Valiente
 Dirección completa: Hamburgo 41, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX
