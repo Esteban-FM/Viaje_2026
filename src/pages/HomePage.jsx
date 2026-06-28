@@ -17,7 +17,7 @@ export default function HomePage() {
   }, [])
 
   return (
-    <div ref={pageRef} className="min-h-screen bg-black">
+    <div ref={pageRef} className="min-h-screen bg-[#11120d]">
       <header className="pt-8 pb-4 text-center anim">
         <h1 className="text-white text-2xl font-bold tracking-wide">
           Viaje Julio 2026

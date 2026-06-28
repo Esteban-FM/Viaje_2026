@@ -5,7 +5,7 @@ import { categorias, lugares } from '../data/mockData'
 
 function PlaceCard({ lugar }) {
   return (
-    <Link to={`/lugar/${lugar.id}`} className="card block rounded-2xl overflow-hidden bg-gray-900">
+    <Link to={`/lugar/${lugar.id}`} className="card block rounded-2xl overflow-hidden bg-[#464646]">
       <div className="aspect-[4/3] overflow-hidden">
         <img
           src={lugar.imagen}
@@ -40,15 +40,15 @@ export default function CategoriaPage() {
 
   if (!categoria) {
     return (
-      <div className="min-h-screen bg-black flex items-center justify-center">
+      <div className="min-h-screen bg-[#11120d] flex items-center justify-center">
         <p className="text-white">Categoría no encontrada</p>
       </div>
     )
   }
 
   return (
-    <div className="min-h-screen bg-black pb-24">
-      <header className="sticky top-0 bg-black/90 backdrop-blur-sm z-10 px-4 py-4 flex items-center gap-3 border-b border-gray-800">
+    <div className="min-h-screen bg-[#11120d] pb-24">
+      <header className="sticky top-0 bg-[#11120d]/90 backdrop-blur-sm z-10 px-4 py-4 flex items-center gap-3 border-b border-gray-800">
         <Link to="/" className="text-white text-xl">←</Link>
         <div>
           <h1 className="text-white text-lg font-bold leading-tight">

@@ -38,7 +38,7 @@ export default function LugarPage() {
 
   if (!lugar) {
     return (
-      <div className="min-h-screen bg-black flex items-center justify-center">
+      <div className="min-h-screen bg-[#11120d] flex items-center justify-center">
         <p className="text-white">Lugar no encontrado</p>
       </div>
     )
@@ -47,7 +47,7 @@ export default function LugarPage() {
   const tieneReservacion = !!lugar.reservacion
 
   return (
-    <div ref={pageRef} className="min-h-screen bg-black pb-24">
+    <div ref={pageRef} className="min-h-screen bg-[#11120d] pb-24">
       {/* Back button */}
       <button
         onClick={() => navigate(-1)}
@@ -77,7 +77,7 @@ export default function LugarPage() {
               href={lugar.reservacion}
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-white text-black text-xs font-bold py-2 px-4 rounded-lg flex-shrink-0"
+              className="bg-[#f9f374] text-black text-xs font-bold py-2 px-4 rounded-lg flex-shrink-0"
             >
               RESERVACIÓN
             </a>
@@ -111,7 +111,7 @@ export default function LugarPage() {
           ) : (
             <button
               onClick={() => setMapaActivo(true)}
-              className="w-full h-full bg-gray-900 flex flex-col items-center justify-center gap-3"
+              className="w-full h-full bg-[#464646] flex flex-col items-center justify-center gap-3"
             >
               <svg className="w-10 h-10 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
@@ -156,7 +156,7 @@ export default function LugarPage() {
             href={`https://instagram.com/${lugar.instagram}`}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-2 bg-gray-900 border border-gray-700 rounded-full py-2.5 px-5"
+            className="flex items-center gap-2 bg-[#464646] border border-gray-700 rounded-full py-2.5 px-5"
           >
             <svg
               className="w-5 h-5 text-white"

@@ -2,7 +2,7 @@
 
 @layer base {
   body {
-    background-color: #000;
+    background-color: #11120d;
   }
 
   .scrollbar-hide {
@@ -12,4 +12,18 @@
   .scrollbar-hide::-webkit-scrollbar {
     display: none;
   }
+}
+
+.bg_RaisinBlack {
+  background-color: #272233;
+}
+.bg_SandyBrown {
+  background-color: #f4a971;
+}
+.bg_GunMetal {
+  background-color: #213241;
+}
+
+.bg_DBlue {
+  background-color: #2d3250;
 }

@@ -29,8 +29,8 @@ export default function EventsSection() {
             onClick={() => setDiaActivo(dia.key)}
             className={`py-1.5 px-3 rounded-full text-xs font-bold transition-colors ${
               diaActivo === dia.key
-                ? 'bg-white text-black'
-                : 'bg-gray-800 text-white border border-gray-600'
+                ? 'bg-[#f9f374] text-black'
+                : 'bg-[#363636] text-white'
             }`}
           >
             {dia.label}
@@ -66,7 +66,7 @@ function EventCard({ evento }) {
           loading="lazy"
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-black/40 to-black" />
+        <div className="absolute inset-0" style={{ background: 'linear-gradient(to bottom, transparent 0%, rgba(17,18,13,0.4) 50%, #11120d 100%)' }} />
       </div>
       <p className="text-white text-xs font-semibold mt-1 truncate">
         {evento.nombre}

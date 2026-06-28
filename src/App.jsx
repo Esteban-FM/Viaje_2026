@@ -4,6 +4,7 @@ import VistosRecientesPage from './pages/VistosRecientesPage'
 import LugarPage from './pages/LugarPage'
 import CategoriaPage from './pages/CategoriaPage'
 import Footer from './components/Footer'
+import ColorText from './pages/ColorTest'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Route path="/vistos-recientes" element={<VistosRecientesPage />} />
           <Route path="/lugar/:id" element={<LugarPage />} />
           <Route path="/categoria/:id" element={<CategoriaPage />} />
+          <Route path="/color-test" element={<ColorText />} />
         </Routes>
         <Footer />
       </div>

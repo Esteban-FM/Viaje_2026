@@ -33,7 +33,7 @@ export default function RecentlyViewed() {
       <div className="flex gap-3 overflow-x-auto px-4 pb-2 scrollbar-hide">
         {vistos.map((lugar) => (
           <Link key={lugar.id} to={`/lugar/${lugar.id}`} className="flex-shrink-0 w-28">
-            <div className="w-28 h-28 rounded-xl overflow-hidden border-2 border-gray-700 bg-gray-800">
+            <div className="w-28 h-28 rounded-xl overflow-hidden border-2 border-gray-700 bg-[#464646]">
               <img
                 src={lugar.imagen}
                 alt={lugar.nombre}

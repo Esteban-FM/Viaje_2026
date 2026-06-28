@@ -11,7 +11,7 @@ function getLugaresVistos() {
 function PlaceCard({ lugar }) {
   return (
     <Link to={`/lugar/${lugar.id}`} className="block">
-      <div className="rounded-2xl overflow-hidden bg-gray-900">
+      <div className="rounded-2xl overflow-hidden bg-[#464646]">
         <div className="aspect-[4/3] overflow-hidden">
           <img
             src={lugar.imagen}
@@ -45,8 +45,8 @@ export default function VistosRecientesPage() {
     .filter((cat) => cat.lugares.length > 0)
 
   return (
-    <div className="min-h-screen bg-black pb-24">
-      <header className="sticky top-0 bg-black/90 backdrop-blur-sm z-10 px-4 py-4 flex items-center gap-3 border-b border-gray-800">
+    <div className="min-h-screen bg-[#11120d] pb-24">
+      <header className="sticky top-0 bg-[#11120d]/90 backdrop-blur-sm z-10 px-4 py-4 flex items-center gap-3 border-b border-gray-800">
         <Link
           to="/"
           className="text-white text-xl"
