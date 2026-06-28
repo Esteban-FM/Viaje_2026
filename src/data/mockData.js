@@ -187,7 +187,7 @@ export const lugares = [
     mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15052.125649138372!2d-99.1687413!3d19.4110487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4102ee2715%3A0x42067d742b520d31!2sChurrer%C3%ADa%20El%20Moro!5e0!3m2!1ses-419!2smx!4v1782421582673!5m2!1ses-419!2smx',
   },
   {
-    id: 17, categoria: 'cafes', tipo: 'Cafés', nombre: 'Pizza del Perro Negro Roma Norte',
+    id: 17, categoria: 'comida', tipo: 'Comida', nombre: 'Pizza del Perro Negro Roma Norte',
     ubicacion: 'Roma Norte',
     direccion: 'Parque España 3-Loc 1, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX',
     horario: 'Lunes a Domingo de 8am - 12am',
