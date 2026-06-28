@@ -16,6 +16,7 @@ function PlaceCard({ lugar }) {
           <img
             src={lugar.imagen}
             alt={lugar.nombre}
+            loading="lazy"
             className="w-full h-full object-cover"
           />
         </div>

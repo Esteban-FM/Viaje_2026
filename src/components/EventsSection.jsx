@@ -63,6 +63,7 @@ function EventCard({ evento }) {
         <img
           src={evento.imagen}
           alt={evento.nombre}
+          loading="lazy"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-transparent via-black/40 to-black" />

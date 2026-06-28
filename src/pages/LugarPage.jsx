@@ -141,6 +141,7 @@ export default function LugarPage() {
               <img
                 src={foto}
                 alt={`${lugar.nombre} foto ${i + 1}`}
+                loading="lazy"
                 className="w-full h-full object-cover"
               />
             </div>
