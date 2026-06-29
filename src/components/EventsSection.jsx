@@ -1,4 +1,4 @@
-import { useState, useRef } from 'react'
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { eventosPorDia } from '../data/mockData'
 
@@ -11,12 +11,7 @@ const dias = [
 
 export default function EventsSection() {
   const [diaActivo, setDiaActivo] = useState('jueves')
-  const scrollRef = useRef(null)
   const eventos = eventosPorDia[diaActivo]
-
-  const mitad = Math.ceil(eventos.length / 2)
-  const fila1 = eventos.slice(0, mitad)
-  const fila2 = eventos.slice(mitad)
 
   return (
     <section className="mt-6 pb-24">
@@ -40,19 +35,10 @@ export default function EventsSection() {
         ))}
       </div>
 
-      <div ref={scrollRef} className="overflow-x-auto px-4 scrollbar-hide">
-        <div className="flex flex-col gap-3 min-w-max">
-          <div className="flex gap-3">
-            {fila1.map((evento) => (
-              <EventCard key={evento.id} evento={evento} />
-            ))}
-          </div>
-          <div className="flex gap-3">
-            {fila2.map((evento) => (
-              <EventCard key={evento.id} evento={evento} />
-            ))}
-          </div>
-        </div>
+      <div className="grid grid-cols-3 gap-3 px-4">
+        {eventos.map((evento) => (
+          <EventCard key={evento.id} evento={evento} />
+        ))}
       </div>
     </section>
   )
@@ -60,8 +46,8 @@ export default function EventsSection() {
 
 function EventCard({ evento }) {
   return (
-    <Link to={`/evento/${evento.id}`} className="w-28 flex-shrink-0 block">
-      <div className="relative w-28 h-28 rounded-xl overflow-hidden bg-[#2a2b24] flex items-center justify-center">
+    <Link to={`/evento/${evento.id}`} className="block">
+      <div className="relative w-full aspect-square rounded-xl overflow-hidden bg-[#2a2b24] flex items-center justify-center">
         <div className="absolute inset-0" style={{ background: 'linear-gradient(135deg, #2a2b24 0%, #1a1b15 100%)' }} />
         <span className="relative text-white/20 text-4xl font-black select-none">
           {evento.nombre.charAt(0)}
