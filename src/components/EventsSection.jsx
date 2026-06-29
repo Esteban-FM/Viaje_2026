@@ -1,4 +1,5 @@
 import { useState, useRef } from 'react'
+import { Link } from 'react-router-dom'
 import { eventosPorDia } from '../data/mockData'
 
 const dias = [
@@ -13,8 +14,9 @@ export default function EventsSection() {
   const scrollRef = useRef(null)
   const eventos = eventosPorDia[diaActivo]
 
-  const fila1 = eventos.slice(0, 3)
-  const fila2 = eventos.slice(3, 6)
+  const mitad = Math.ceil(eventos.length / 2)
+  const fila1 = eventos.slice(0, mitad)
+  const fila2 = eventos.slice(mitad)
 
   return (
     <section className="mt-6 pb-24">
@@ -58,20 +60,18 @@ export default function EventsSection() {
 
 function EventCard({ evento }) {
   return (
-    <div className="w-28 flex-shrink-0">
-      <div className="relative w-28 h-28 rounded-xl overflow-hidden bg-gray-800">
-        <img
-          src={evento.imagen}
-          alt={evento.nombre}
-          loading="lazy"
-          className="w-full h-full object-cover"
-        />
-        <div className="absolute inset-0" style={{ background: 'linear-gradient(to bottom, transparent 0%, rgba(17,18,13,0.4) 50%, #11120d 100%)' }} />
+    <Link to={`/evento/${evento.id}`} className="w-28 flex-shrink-0 block">
+      <div className="relative w-28 h-28 rounded-xl overflow-hidden bg-[#2a2b24] flex items-center justify-center">
+        <div className="absolute inset-0" style={{ background: 'linear-gradient(135deg, #2a2b24 0%, #1a1b15 100%)' }} />
+        <span className="relative text-white/20 text-4xl font-black select-none">
+          {evento.nombre.charAt(0)}
+        </span>
+        <div className="absolute inset-0" style={{ background: 'linear-gradient(to bottom, transparent 40%, #11120d 100%)' }} />
       </div>
       <p className="text-white text-xs font-semibold mt-1 truncate">
         {evento.nombre}
       </p>
-      <p className="text-gray-400 text-[10px] truncate">{evento.horario}</p>
-    </div>
+      <p className="text-gray-400 text-[10px] truncate">{evento.lugar}</p>
+    </Link>
   )
 }

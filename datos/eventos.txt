@@ -16,26 +16,42 @@ Instrucciones:
 
 EVENTO #1
 -------------------------------------
-Nombre:
-Lugar:
-Dirección completa:
-Horario:
-Precio entrada:
-Tickets / Reservación (link):
+Nombre: ECHONOMIST B2B JENIA TARSOL - AFTER CUP 2026
+Lugar: Frontón Bucareli
+Dirección completa: Bucareli 118, Colonia Centro, Cuauhtémoc, Ciudad de México, 06000
+Horario: 9:00 PM — 3:30 AM
+Precio entrada: 800
+Tickets / Reservación (link): https://feverup.com/m/647504
 Instagram:
-Google Maps (iframe src):
+Google Maps (iframe src):<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.614719958896!2d-99.15239849999999!3d19.4290459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff5fdd974ebd%3A0x4bc6020b93829bcb!2sFronton%20Bucareli!5e0!3m2!1ses!2sus!4v1782753828639!5m2!1ses!2sus"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 
 EVENTO #2
 -------------------------------------
-Nombre:
-Lugar:
-Dirección completa:
-Horario:
-Precio entrada:
-Tickets / Reservación (link):
+Nombre: Aperture x Fünk
+Lugar: Fünk
+Dirección completa: Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico
+Horario: 11:00 PM - 06:00 AM
+Precio entrada: 279.15
+Tickets / Reservación (link): https://es-mx.ra.co/events/2477407
 Instagram:
-Google Maps (iframe src):
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.0544577966016!2d-99.17007492304569!3d19.410052881864484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff17cb9efbd9%3A0x89081ba3ca50a609!2sF%C3%BCnk%20Club!5e0!3m2!1ses!2sus!4v1782753956329!5m2!1ses!2sus"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+EVENTO #3
+-------------------------------------
+Nombre: Sonido Radar
+Lugar: Bar Oriente
+Dirección completa: Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX
+Horario: 10:00 PM - 04:30 AM
+Precio entrada: 173.10
+Tickets / Reservación (link): https://es-mx.ra.co/events/2473691
+Instagram:
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.8204920025573!2d-99.16788602304543!3d19.420160481856637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff3780e48d3b%3A0x8b59ce496737dae4!2sBar%20Oriente!5e0!3m2!1ses!2sus!4v1782754108093!5m2!1ses!2sus"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+
 
 
 -------------------------------------
@@ -44,26 +60,56 @@ Google Maps (iframe src):
 
 EVENTO #1
 -------------------------------------
-Nombre:
-Lugar:
-Dirección completa:
-Horario:
-Precio entrada:
-Tickets / Reservación (link):
+Nombre: Henrik Schwarz (live) + TBA
+Lugar: Fünk
+Dirección completa: Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico
+Horario: 11:00 PM - 06:00 AM
+Precio entrada: 1st-558.30 ,2nd-781.60,3rd-1004.90
+Tickets / Reservación (link): https://es-mx.ra.co/events/2468826
 Instagram:
-Google Maps (iframe src):
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.0544577966016!2d-99.17007492304569!3d19.410052881864484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff17cb9efbd9%3A0x89081ba3ca50a609!2sF%C3%BCnk%20Club!5e0!3m2!1ses!2sus!4v1782753956329!5m2!1ses!2sus"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 
 EVENTO #2
 -------------------------------------
-Nombre:
-Lugar:
-Dirección completa:
-Horario:
-Precio entrada:
-Tickets / Reservación (link):
+Nombre: Freebot, Dj Fucci, Emisopa
+Lugar: Bar Oriente
+Dirección completa: Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX
+Horario: 10:00 PM - 05:00 AM
+Precio entrada: 288.50
+Tickets / Reservación (link): https://es-mx.ra.co/events/2460060
 Instagram:
-Google Maps (iframe src):
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.8204920025573!2d-99.16788602304543!3d19.420160481856637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff3780e48d3b%3A0x8b59ce496737dae4!2sBar%20Oriente!5e0!3m2!1ses!2sus!4v1782754108093!5m2!1ses!2sus"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+
+EVENTO #3
+-------------------------------------
+Nombre: Rodilla House
+Lugar: Japan CDMX
+Dirección completa: Av. Monterrey #56, Roma Norte, 06700, Mexico City, Mexico
+Horario: 9:00 PM - 04:30 AM
+Precio entrada: 250
+Tickets / Reservación (link):https://www.passline.com/sitio-evento/rodilla-club-x-japan-sabado-10-de-julio
+Instagram:
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.8106559550506!2d-99.1648172!3d19.4205853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff0001dde9a1%3A0xcc7cc39698d84a92!2sJapan%20CDMX!5e0!3m2!1ses-419!2smx!4v1782755363104!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+EVENTO #4
+-------------------------------------
+Nombre: EM2K, Mejía, Emme
+Lugar: Yu Yu Cine Club
+Dirección completa: Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX
+Horario: 11:00 PM - 03:30 AM
+Precio entrada: 268.10
+Tickets / Reservación (link): https://es-mx.ra.co/events/2475571
+Instagram:
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15051.217203246766!2d-99.16356892090238!3d19.420859773407162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff0057214827%3A0xe34d8e0f0a4cfd37!2sYu%20Yu%20Cine%20Club!5e0!3m2!1ses!2sus!4v1782754594205!5m2!1ses!2sus"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
 
 
 -------------------------------------
@@ -72,26 +118,56 @@ Google Maps (iframe src):
 
 EVENTO #1
 -------------------------------------
-Nombre:
-Lugar:
-Dirección completa:
-Horario:
-Precio entrada:
-Tickets / Reservación (link):
+Nombre: Jean Tonique (FR), Girl Ultra (Dj Set)
+Lugar: Bar Oriente
+Dirección completa: Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX
+Horario: 10:00 PM - 05:00 AM
+Precio entrada: 1st-346.20, 2nd-519.25
+Tickets / Reservación (link): https://es-mx.ra.co/events/2473706
 Instagram:
-Google Maps (iframe src):
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.8204920025573!2d-99.16788602304543!3d19.420160481856637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff3780e48d3b%3A0x8b59ce496737dae4!2sBar%20Oriente!5e0!3m2!1ses!2sus!4v1782754108093!5m2!1ses!2sus"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
 
 
 EVENTO #2
 -------------------------------------
-Nombre:
-Lugar:
-Dirección completa:
+Nombre:Anthony Parasole
+Lugar: Yu Yu Cine Club
+Dirección completa: Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX
+Horario: 11:00 PM - 05:00 AM
+Precio entrada: 375.35
+Tickets / Reservación (link): https://es-mx.ra.co/events/2475574
+Instagram:
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15051.217203246766!2d-99.16356892090238!3d19.420859773407162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff0057214827%3A0xe34d8e0f0a4cfd37!2sYu%20Yu%20Cine%20Club!5e0!3m2!1ses!2sus!4v1782754594205!5m2!1ses!2sus"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+EVENTO #3
+-------------------------------------
+Nombre: Liquid Earth + TBA
+Lugar: Fünk
+Dirección completa: Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico
+Horario: 11:00 PM - 06:00 AM
+Precio entrada: 334.95
+Tickets / Reservación (link): https://es-mx.ra.co/events/2477214
+Instagram:
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.0544577966016!2d-99.17007492304569!3d19.410052881864484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff17cb9efbd9%3A0x89081ba3ca50a609!2sF%C3%BCnk%20Club!5e0!3m2!1ses!2sus!4v1782753956329!5m2!1ses!2sus"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+
+EVENTO #4
+-------------------------------------
+Nombre: SangreFurby
+Lugar: Levu VIP
+Dirección completa: Dr. Lavista 190, Doctores, Cuauhtémoc, 06720
 Horario:
-Precio entrada:
+Precio entrada: 100
 Tickets / Reservación (link):
 Instagram:
-Google Maps (iframe src):
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.7282108771!2d-99.15205020714714!3d19.42414574542408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff0036cf14a5%3A0x488ed61e7cbcf6de!2z8J-OgyBMZXZ1IFZpcA!5e0!3m2!1ses-419!2smx!4v1782755247002!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
 
 
 -------------------------------------
@@ -100,23 +176,13 @@ Google Maps (iframe src):
 
 EVENTO #1
 -------------------------------------
-Nombre:
-Lugar:
-Dirección completa:
+Nombre: Sunset Music Sessions
+Lugar: Terraza Dos Equis
+Dirección completa: Isabel La Católica 68, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06080 Ciudad de México, CDMX
 Horario:
-Precio entrada:
-Tickets / Reservación (link):
+Precio entrada: 1st-230.80, 2nd-346.20
+Tickets / Reservación (link): https://es-mx.ra.co/events/2464686
 Instagram:
-Google Maps (iframe src):
+Google Maps (iframe src): <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16531.814737897897!2d-99.14720178143153!3d19.42669136337188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fed24f297ec1%3A0x31f154985f0ad460!2sTerraza%20Dos%20Equis!5e0!3m2!1ses-419!2smx!4v1782755480998!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 
-EVENTO #2
--------------------------------------
-Nombre:
-Lugar:
-Dirección completa:
-Horario:
-Precio entrada:
-Tickets / Reservación (link):
-Instagram:
-Google Maps (iframe src):
