@@ -688,6 +688,7 @@ export const eventosPorDia = {
       horario: '9:00 PM — 3:30 AM',
       precio: '$800',
       tickets: 'https://feverup.com/m/647504',
+      imagen: img('imagenes/eventos/01-echonomist-b2b/Portada.avif'),
       mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.614719958896!2d-99.15239849999999!3d19.4290459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff5fdd974ebd%3A0x4bc6020b93829bcb!2sFronton%20Bucareli!5e0!3m2!1ses!2sus!4v1782753828639!5m2!1ses!2sus',
     },
     {
@@ -698,6 +699,7 @@ export const eventosPorDia = {
       horario: '11:00 PM — 6:00 AM',
       precio: '$279',
       tickets: 'https://es-mx.ra.co/events/2477407',
+      imagen: img('imagenes/eventos/02-aperture-funk/Portada.avif'),
       mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.0544577966016!2d-99.17007492304569!3d19.410052881864484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff17cb9efbd9%3A0x89081ba3ca50a609!2sF%C3%BCnk%20Club!5e0!3m2!1ses!2sus!4v1782753956329!5m2!1ses!2sus',
     },
     {
@@ -708,6 +710,7 @@ export const eventosPorDia = {
       horario: '10:00 PM — 4:30 AM',
       precio: '$173',
       tickets: 'https://es-mx.ra.co/events/2473691',
+      imagen: img('imagenes/eventos/03-sonido-radar/Portada.avif'),
       mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.8204920025573!2d-99.16788602304543!3d19.420160481856637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff3780e48d3b%3A0x8b59ce496737dae4!2sBar%20Oriente!5e0!3m2!1ses!2sus!4v1782754108093!5m2!1ses!2sus',
     },
   ],
@@ -720,6 +723,7 @@ export const eventosPorDia = {
       horario: '11:00 PM — 6:00 AM',
       precio: '1ra: $558 · 2da: $781 · 3ra: $1,004',
       tickets: 'https://es-mx.ra.co/events/2468826',
+      imagen: img('imagenes/eventos/04-henrik-schwarz/Portada.avif'),
       mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.0544577966016!2d-99.17007492304569!3d19.410052881864484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff17cb9efbd9%3A0x89081ba3ca50a609!2sF%C3%BCnk%20Club!5e0!3m2!1ses!2sus!4v1782753956329!5m2!1ses!2sus',
     },
     {
@@ -730,6 +734,7 @@ export const eventosPorDia = {
       horario: '10:00 PM — 5:00 AM',
       precio: '$288',
       tickets: 'https://es-mx.ra.co/events/2460060',
+      imagen: img('imagenes/eventos/05-freebot-fucci-emisopa/Portada.avif'),
       mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.8204920025573!2d-99.16788602304543!3d19.420160481856637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff3780e48d3b%3A0x8b59ce496737dae4!2sBar%20Oriente!5e0!3m2!1ses!2sus!4v1782754108093!5m2!1ses!2sus',
     },
     {
@@ -740,6 +745,7 @@ export const eventosPorDia = {
       horario: '9:00 PM — 4:30 AM',
       precio: '$250',
       tickets: 'https://www.passline.com/sitio-evento/rodilla-club-x-japan-sabado-10-de-julio',
+      imagen: img('imagenes/eventos/06-rodilla-house/Portada.avif'),
       mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.8106559550506!2d-99.1648172!3d19.4205853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff0001dde9a1%3A0xcc7cc39698d84a92!2sJapan%20CDMX!5e0!3m2!1ses-419!2smx!4v1782755363104!5m2!1ses-419!2smx',
     },
     {
@@ -750,6 +756,7 @@ export const eventosPorDia = {
       horario: '11:00 PM — 3:30 AM',
       precio: '$268',
       tickets: 'https://es-mx.ra.co/events/2475571',
+      imagen: img('imagenes/eventos/07-em2k-mejia-emme/Portada.avif'),
       mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15051.217203246766!2d-99.16356892090238!3d19.420859773407162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff0057214827%3A0xe34d8e0f0a4cfd37!2sYu%20Yu%20Cine%20Club!5e0!3m2!1ses!2sus!4v1782754594205!5m2!1ses!2sus',
     },
   ],
@@ -762,6 +769,7 @@ export const eventosPorDia = {
       horario: '10:00 PM — 5:00 AM',
       precio: '1ra: $346 · 2da: $519',
       tickets: 'https://es-mx.ra.co/events/2473706',
+      imagen: img('imagenes/eventos/08-jean-tonique/Portada.avif'),
       mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.8204920025573!2d-99.16788602304543!3d19.420160481856637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff3780e48d3b%3A0x8b59ce496737dae4!2sBar%20Oriente!5e0!3m2!1ses!2sus!4v1782754108093!5m2!1ses!2sus',
     },
     {
@@ -772,6 +780,7 @@ export const eventosPorDia = {
       horario: '11:00 PM — 5:00 AM',
       precio: '$375',
       tickets: 'https://es-mx.ra.co/events/2475574',
+      imagen: img('imagenes/eventos/09-anthony-parasole/Portada.avif'),
       mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15051.217203246766!2d-99.16356892090238!3d19.420859773407162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff0057214827%3A0xe34d8e0f0a4cfd37!2sYu%20Yu%20Cine%20Club!5e0!3m2!1ses!2sus!4v1782754594205!5m2!1ses!2sus',
     },
     {
@@ -782,6 +791,7 @@ export const eventosPorDia = {
       horario: '11:00 PM — 6:00 AM',
       precio: '$334',
       tickets: 'https://es-mx.ra.co/events/2477214',
+      imagen: img('imagenes/eventos/10-liquid-earth/Portada.avif'),
       mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.0544577966016!2d-99.17007492304569!3d19.410052881864484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff17cb9efbd9%3A0x89081ba3ca50a609!2sF%C3%BCnk%20Club!5e0!3m2!1ses!2sus!4v1782753956329!5m2!1ses!2sus',
     },
     {
@@ -792,6 +802,7 @@ export const eventosPorDia = {
       horario: null,
       precio: '$100',
       tickets: null,
+      imagen: img('imagenes/eventos/11-sangrefurby/Portada.avif'),
       mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.7282108771!2d-99.15205020714714!3d19.42414574542408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff0036cf14a5%3A0x488ed61e7cbcf6de!2z8J-OgyBMZXZ1IFZpcA!5e0!3m2!1ses-419!2smx!4v1782755247002!5m2!1ses-419!2smx',
     },
   ],
@@ -804,6 +815,7 @@ export const eventosPorDia = {
       horario: null,
       precio: '1ra: $230 · 2da: $346',
       tickets: 'https://es-mx.ra.co/events/2464686',
+      imagen: img('imagenes/eventos/12-sunset-music-sessions/Portada.avif'),
       mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16531.814737897897!2d-99.14720178143153!3d19.42669136337188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fed24f297ec1%3A0x31f154985f0ad460!2sTerraza%20Dos%20Equis!5e0!3m2!1ses-419!2smx!4v1782755480998!5m2!1ses-419!2smx',
     },
   ],

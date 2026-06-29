@@ -93,6 +93,21 @@ export default function EventoPage() {
           />
         </div>
       </section>
+
+      {/* Poster */}
+      {evento.imagen && (
+        <section className="px-4 mb-6 anim">
+          <h2 className="text-white text-base font-bold mb-3 text-center uppercase tracking-wide">
+            Poster
+          </h2>
+          <img
+            src={evento.imagen}
+            alt={`Poster ${evento.nombre}`}
+            loading="lazy"
+            className="w-full rounded-2xl"
+          />
+        </section>
+      )}
     </div>
   )
 }

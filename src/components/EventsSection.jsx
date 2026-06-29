@@ -48,10 +48,16 @@ function EventCard({ evento }) {
   return (
     <Link to={`/evento/${evento.id}`} className="block">
       <div className="relative w-full aspect-square rounded-xl overflow-hidden bg-[#2a2b24] flex items-center justify-center">
-        <div className="absolute inset-0" style={{ background: 'linear-gradient(135deg, #2a2b24 0%, #1a1b15 100%)' }} />
-        <span className="relative text-white/20 text-4xl font-black select-none">
-          {evento.nombre.charAt(0)}
-        </span>
+        {evento.imagen ? (
+          <img
+            src={evento.imagen}
+            alt={evento.nombre}
+            loading="lazy"
+            className="w-full h-full object-cover"
+          />
+        ) : (
+          <div className="absolute inset-0" style={{ background: 'linear-gradient(135deg, #2a2b24 0%, #1a1b15 100%)' }} />
+        )}
         <div className="absolute inset-0" style={{ background: 'linear-gradient(to bottom, transparent 40%, #11120d 100%)' }} />
       </div>
       <p className="text-white text-xs font-semibold mt-1 truncate">
