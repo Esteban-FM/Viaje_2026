@@ -1,5 +1,5 @@
 import { useParams, Link, useNavigate } from 'react-router-dom'
-import { useRef, useEffect, useState } from 'react'
+import { useRef, useEffect } from 'react'
 import { gsap } from 'gsap'
 import { lugares } from '../data/mockData'
 
@@ -18,12 +18,10 @@ export default function LugarPage() {
   const carouselRef = useRef(null)
 
   const lugar = lugares.find((l) => l.id === Number(id))
-  const [mapaActivo, setMapaActivo] = useState(false)
   const pageRef = useRef(null)
 
   useEffect(() => {
     if (lugar) guardarVisto(lugar.id)
-    setMapaActivo(false)
   }, [lugar])
 
   useEffect(() => {
@@ -98,29 +96,16 @@ export default function LugarPage() {
           Ubicación
         </h2>
         <div className="rounded-2xl overflow-hidden border border-gray-700 aspect-[4/3] relative">
-          {mapaActivo ? (
-            <iframe
-              title="Mapa"
-              width="100%"
-              height="100%"
-              style={{ border: 0 }}
-              allowFullScreen=""
-              referrerPolicy="strict-origin-when-cross-origin"
-              src={lugar.mapEmbed}
-            />
-          ) : (
-            <button
-              onClick={() => setMapaActivo(true)}
-              className="w-full h-full bg-[#464646] flex flex-col items-center justify-center gap-3"
-            >
-              <svg className="w-10 h-10 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-              </svg>
-              <span className="text-white text-sm font-semibold">Ver mapa</span>
-              <span className="text-gray-500 text-xs">{lugar.direccion}</span>
-            </button>
-          )}
+          <iframe
+            title="Mapa"
+            width="100%"
+            height="100%"
+            style={{ border: 0 }}
+            allowFullScreen=""
+            loading="lazy"
+            referrerPolicy="strict-origin-when-cross-origin"
+            src={lugar.mapEmbed}
+          />
         </div>
       </section>
 
