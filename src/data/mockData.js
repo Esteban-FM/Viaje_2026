@@ -389,6 +389,17 @@ export const lugares = [
     galeria: [img('imagenes/comida/15-soop-noodle-bar/1.avif'), img('imagenes/comida/15-soop-noodle-bar/2.avif'), img('imagenes/comida/15-soop-noodle-bar/3.avif'), img('imagenes/comida/15-soop-noodle-bar/4.avif')],
     mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7525.695837982889!2d-99.15978313180003!3d19.418975865101142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff079088677d%3A0x2189069db9a984bd!2sSoop%20Noodle%20Bar!5e0!3m2!1ses-419!2smx!4v1782426203681!5m2!1ses-419!2smx',
   },
+  {
+    id: 60, categoria: 'comida', tipo: 'Restaurantes y Puestos', nombre: 'Sumo Buffet Alitas y Sushi',
+    ubicacion: 'Condesa',
+    direccion: 'Av. Tamaulipas, Del. Cuauhtémoc #99, Colonia Condesa, Cuauhtémoc, 06170 Ciudad de México, CDMX',
+    horario: 'Lunes a Miércoles de 12pm - 10pm, Jueves de 12pm - 11pm, Viernes y Sábados de 12pm - 12am, Domingo de 12pm - 9pm',
+    reservacion: null,
+    instagram: null,
+    imagen: img('imagenes/comida/17- sumo-buffet/Portada.avif'),
+    galeria: [img('imagenes/comida/17- sumo-buffet/1.avif'), img('imagenes/comida/17- sumo-buffet/2.avif'), img('imagenes/comida/17- sumo-buffet/3.avif'), img('imagenes/comida/17- sumo-buffet/4.avif')],
+    mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7526.076418476349!2d-99.18196682447197!3d19.41075500238348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff72fb19900b%3A0xb01dcf4cb3fa802f!2sSumo%20Buffet%20Condesa!5e0!3m2!1ses-419!2smx!4v1782758777515!5m2!1ses-419!2smx',
+  },
 
   // ── MUSEOS ─────────────────────────────────────────────────────────────────
   {
