@@ -1,5 +1,5 @@
 import { useParams, useNavigate } from 'react-router-dom'
-import { useRef, useEffect } from 'react'
+import { useRef, useEffect, useState } from 'react'
 import { gsap } from 'gsap'
 import { eventosPorDia } from '../data/mockData'
 
@@ -95,19 +95,26 @@ export default function EventoPage() {
       </section>
 
       {/* Poster */}
-      {evento.imagen && (
-        <section className="px-4 mb-6 anim">
-          <h2 className="text-white text-base font-bold mb-3 text-center uppercase tracking-wide">
-            Poster
-          </h2>
-          <img
-            src={evento.imagen}
-            alt={`Poster ${evento.nombre}`}
-            loading="lazy"
-            className="w-full rounded-2xl"
-          />
-        </section>
-      )}
+      {evento.imagen && <PosterSection src={evento.imagen} nombre={evento.nombre} />}
     </div>
+  )
+}
+
+function PosterSection({ src, nombre }) {
+  const [error, setError] = useState(false)
+  if (error) return null
+  return (
+    <section className="px-4 mb-6 anim">
+      <h2 className="text-white text-base font-bold mb-3 text-center uppercase tracking-wide">
+        Poster
+      </h2>
+      <img
+        src={src}
+        alt={`Poster ${nombre}`}
+        loading="lazy"
+        onError={() => setError(true)}
+        className="w-full rounded-2xl"
+      />
+    </section>
   )
 }

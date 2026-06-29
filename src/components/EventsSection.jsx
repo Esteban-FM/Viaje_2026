@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useRef } from 'react'
 import { Link } from 'react-router-dom'
 import { eventosPorDia } from '../data/mockData'
 
@@ -45,18 +45,23 @@ export default function EventsSection() {
 }
 
 function EventCard({ evento }) {
+  const [imgError, setImgError] = useState(false)
+  const showImg = evento.imagen && !imgError
+
   return (
     <Link to={`/evento/${evento.id}`} className="block">
       <div className="relative w-full aspect-square rounded-xl overflow-hidden bg-[#2a2b24] flex items-center justify-center">
-        {evento.imagen ? (
+        {!showImg && (
+          <div className="absolute inset-0" style={{ background: 'linear-gradient(135deg, #2a2b24 0%, #1a1b15 100%)' }} />
+        )}
+        {evento.imagen && (
           <img
             src={evento.imagen}
             alt={evento.nombre}
             loading="lazy"
-            className="w-full h-full object-cover"
+            onError={() => setImgError(true)}
+            className={`w-full h-full object-cover transition-opacity ${showImg ? 'opacity-100' : 'opacity-0'}`}
           />
-        ) : (
-          <div className="absolute inset-0" style={{ background: 'linear-gradient(135deg, #2a2b24 0%, #1a1b15 100%)' }} />
         )}
         <div className="absolute inset-0" style={{ background: 'linear-gradient(to bottom, transparent 40%, #11120d 100%)' }} />
       </div>
