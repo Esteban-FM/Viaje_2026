@@ -396,10 +396,68 @@ export const lugares = [
     horario: 'Lunes a Miércoles de 12pm - 10pm, Jueves de 12pm - 11pm, Viernes y Sábados de 12pm - 12am, Domingo de 12pm - 9pm',
     reservacion: null,
     instagram: null,
-    imagen: img('imagenes/comida/17- sumo-buffet/Portada.avif'),
-    galeria: [img('imagenes/comida/17- sumo-buffet/1.avif'), img('imagenes/comida/17- sumo-buffet/2.avif'), img('imagenes/comida/17- sumo-buffet/3.avif'), img('imagenes/comida/17- sumo-buffet/4.avif')],
+    imagen: img('imagenes/comida/17-sumo-buffet/Portada.avif'),
+    galeria: [img('imagenes/comida/17-sumo-buffet/1.avif'), img('imagenes/comida/17-sumo-buffet/2.avif'), img('imagenes/comida/17-sumo-buffet/3.avif'), img('imagenes/comida/17-sumo-buffet/4.avif')],
     mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7526.076418476349!2d-99.18196682447197!3d19.41075500238348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff72fb19900b%3A0xb01dcf4cb3fa802f!2sSumo%20Buffet%20Condesa!5e0!3m2!1ses-419!2smx!4v1782758777515!5m2!1ses-419!2smx',
   },
+  {
+    id: 61, categoria: 'comida', tipo: 'Restaurantes y Puestos', nombre: 'Tacos La Chula Roma',
+    ubicacion: 'Roma Sur',
+    direccion: 'Av. Insurgentes Sur 454, Centro Urbano Pdte. Juárez, Roma Sur, Cuauhtémoc, 06760 Ciudad de México, CDMX',
+    horario: 'Domingo a Miércoles de 8am - 3am, Jueves a Sábado de 8am - 5am',
+    reservacion: null,
+    instagram: null,
+    imagen: img('imagenes/comida/18-tacos-la-chula-roma/Portada.avif'),
+    galeria: [img('imagenes/comida/18-tacos-la-chula-roma/1.avif'), img('imagenes/comida/18-tacos-la-chula-roma/2.avif'), img('imagenes/comida/18-tacos-la-chula-roma/3.avif'), img('imagenes/comida/18-tacos-la-chula-roma/4.avif')],
+    mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60210.43579368406!2d-99.16846439999999!3d19.405827199999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffe556a5900b%3A0xf86f133699dc233a!2sTacos%20La%20Chula%20Roma!5e0!3m2!1ses-419!2smx!4v1782830152672!5m2!1ses-419!2smx',
+  },
+  {
+    id: 62, categoria: 'comida', tipo: 'Restaurantes y Puestos', nombre: 'Taquería Don Frank',
+    ubicacion: 'Narvarte Poniente',
+    direccion: 'Torres Adalid 1353, Narvarte Poniente, Benito Juárez, 09030 Ciudad de México, CDMX',
+    horario: 'Torres Adalid 1353, Narvarte Poniente, Benito Juárez, 09030 Ciudad de México, CDMX',
+    reservacion: null,
+    instagram: 'donfranktaquerias',
+    imagen: img('imagenes/comida/19-taqueria-don-frank/Portada.avif'),
+    galeria: [img('imagenes/comida/19-taqueria-don-frank/1.avif'), img('imagenes/comida/19-taqueria-don-frank/2.avif'), img('imagenes/comida/19-taqueria-don-frank/3.avif'), img('imagenes/comida/19-taqueria-don-frank/4.avif')],
+    mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19662.660716867616!2d-99.1761247945425!3d19.402638437496822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff08bf9f8191%3A0x67f5cd47def1fe93!2sTaquer%C3%ADa%20Don%20Frank!5e0!3m2!1ses-419!2smx!4v1782830240946!5m2!1ses-419!2smx',
+  },
+
+  {
+    id: 63, categoria: 'comida', tipo: 'Restaurantes y Puestos', nombre: 'Botanero del Bosque',
+    ubicacion: 'Centro Histórico',
+    direccion: 'Isabel La Católica 30-Interior R2, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX',
+    horario: 'Lunes y Martes de 1pm - 11pm, Miércoles a Domingo 9am - 11pm',
+    reservacion: 'https://www.opentable.com.mx/restaurant/profile/1470703?ref=16420',
+    instagram: null,
+    imagen: img('imagenes/comida/20-botanero-del-bosque/Portada.avif'),
+    galeria: [img('imagenes/comida/20-botanero-del-bosque/1.avif'), img('imagenes/comida/20-botanero-del-bosque/2.avif'), img('imagenes/comida/20-botanero-del-bosque/3.avif'), img('imagenes/comida/20-botanero-del-bosque/4.avif')],
+    mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11193.844150737696!2d-99.14449339008813!3d19.431142737408166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff003b0acfa9%3A0x52e5c0e96a8054ff!2sBotanero%20del%20Bosque!5e0!3m2!1ses-419!2smx!4v1782830495181!5m2!1ses-419!2smx',
+  },
+
+  {
+    id: 64, categoria: 'comida', tipo: 'Restaurantes y Puestos', nombre: 'ZhuYi Ramen',
+    ubicacion: 'Miguel Hidalgo',
+    direccion: 'Leibnitz 67, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX',
+    horario: 'Lunes a Domingo 12pm - 9:30pm',
+    reservacion: null,
+    instagram: null,
+    imagen: img('imagenes/comida/21-zhuyi-ramen/Portada.avif'),
+    galeria: [img('imagenes/comida/21-zhuyi-ramen/1.avif'), img('imagenes/comida/21-zhuyi-ramen/2.avif'), img('imagenes/comida/21-zhuyi-ramen/3.avif'), img('imagenes/comida/21-zhuyi-ramen/4.avif')],
+    mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.64020142009!2d-99.1778727!3d19.4279458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff007222dc1b%3A0x94b66562e7b5fa54!2sZhuYi%20Ramen!5e0!3m2!1ses-419!2smx!4v1782830610763!5m2!1ses-419!2smx',
+  },
+
+
+
+
+
+
+
+
+
+
+
+
 
   // ── MUSEOS ─────────────────────────────────────────────────────────────────
   {
