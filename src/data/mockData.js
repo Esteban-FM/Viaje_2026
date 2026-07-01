@@ -616,6 +616,40 @@ export const lugares = [
     galeria: [img('imagenes/bares/04-cantina-sieteseis/1.avif'), img('imagenes/bares/04-cantina-sieteseis/2.avif'), img('imagenes/bares/04-cantina-sieteseis/3.avif'), img('imagenes/bares/04-cantina-sieteseis/4.avif')],
     mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.811158812161!2d-99.1592648230455!3d19.420563581856364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff581027b3bf%3A0x143da8e3046a2cd1!2sCantina%20SieteSeis!5e0!3m2!1ses-419!2smx!4v1782425952260!5m2!1ses-419!2smx',
   },
+  {
+    id: 65, categoria: 'bares', tipo: 'Bares', nombre: 'Cantina Monterrey',
+    ubicacion: 'Cuauhtémoc',
+    direccion: 'Monterrey 172, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX',
+    horario: 'Martes a Sábado de 5pm - 2am, Domingo de 5pm - 12am',
+    reservacion: ' https://www.opentable.com.mx/restaurant/profile/1490299?ref=16420',
+    instagram: 'cantinamty',
+    imagen: img('imagenes/bares/05-cantina-monterrey/Portada.avif'),
+    galeria: [img('imagenes/bares/05-cantina-monterrey/1.avif'), img('imagenes/bares/05-cantina-monterrey/2.avif'), img('imagenes/bares/05-cantina-monterrey/3.avif'), img('imagenes/bares/05-cantina-monterrey/4.avif')],
+    mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.94764382122!2d-99.16315100000001!3d19.414668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff00487a20b9%3A0xdb93e85d68620b7d!2sCantina%20Monterrey!5e0!3m2!1ses-419!2smx!4v1782916722446!5m2!1ses-419!2smx',
+  },
+  {
+    id: 66, categoria: 'bares', tipo: 'Bares', nombre: 'Kinshasa Roma',
+    ubicacion: 'Cuauhtémoc',
+    direccion: 'C. Querétaro 225, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX',
+    horario: 'Miércoles a Sábado de 4pm - 1:45am',
+    reservacion: '',
+    instagram: 'kinshasaroma',
+    imagen: img('imagenes/bares/06-kinshasa-roma/Portada.avif'),
+    galeria: [img('imagenes/bares/06-kinshasa-roma/1.avif'), img('imagenes/bares/06-kinshasa-roma/2.avif'), img('imagenes/bares/06-kinshasa-roma/3.avif'), img('imagenes/bares/06-kinshasa-roma/4.avif')],
+    mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.96099945482!2d-99.164571!3d19.414091!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff7ab0c16e0d%3A0xfb3021a645d45f4f!2sKinshasa%20Roma!5e0!3m2!1ses-419!2smx!4v1782917033837!5m2!1ses-419!2smx',
+  },
+
+
+
+
+
+
+
+
+
+
+
+
 
   // ── ANTROS ─────────────────────────────────────────────────────────────────
   {
